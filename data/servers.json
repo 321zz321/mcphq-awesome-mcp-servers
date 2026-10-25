@@ -2976,6 +2976,22 @@
     "official": false
   },
   {
+    "name": "pgwarden",
+    "url": "https://github.com/B0yko/pgwarden",
+    "description": "Self-hosted PostgreSQL MCP gateway with OIDC login, per-user database roles, read-only queries, human-approved writes, and audit logging.",
+    "category": "databases-and-storage",
+    "language": "Python",
+    "provider": "Andrii Boiko",
+    "tags": [
+      "postgresql",
+      "oidc",
+      "access-control",
+      "approvals",
+      "audit"
+    ],
+    "official": false
+  },
+  {
     "name": "LangGraph MCP Server",
     "url": "https://docs.langchain.com/langsmith/server-mcp",
     "description": "Expose deployed LangGraph agents as MCP tools through the Agent Server MCP endpoint.",
