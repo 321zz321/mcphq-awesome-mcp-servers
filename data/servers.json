@@ -3825,6 +3825,21 @@
     "official": false
   },
   {
+    "name": "Agent Payment Node",
+    "url": "https://github.com/nuanu-ai/agent-payment-node",
+    "description": "Local CLI and stdio MCP payment tools for AI agents on macOS Apple Silicon, with foreground human approval for signing.",
+    "category": "finance-commerce-and-business-apps",
+    "language": "TypeScript",
+    "provider": "Nuanu AI",
+    "tags": [
+      "payments",
+      "agent-payments",
+      "local-stdio",
+      "macos"
+    ],
+    "official": true
+  },
+  {
     "name": "DocuQueue MCP",
     "url": "https://github.com/docuqueue/docuqueue-mcp",
     "description": "Generate PDFs from templates, fill existing PDF forms, and batch-create invoices, contracts, and certificates through a hosted MCP server with a free tier.",

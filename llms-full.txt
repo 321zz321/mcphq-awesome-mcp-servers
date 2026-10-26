@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 457 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 458 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -4129,6 +4129,17 @@ Create ecommerce video ads and product images: clone a reference ad around a pro
 - Tags: video, advertising, ecommerce, remote, oauth
 - Category: Finance, Commerce, and Business Apps
 - Streamable HTTP endpoint: https://adsturbo.ai/klian/novartapi/mcp
+
+### Agent Payment Node
+
+Local CLI and stdio MCP payment tools for AI agents on macOS Apple Silicon, with foreground human approval for signing.
+
+- URL: https://github.com/nuanu-ai/agent-payment-node
+- Language: TypeScript
+- Provider: Nuanu AI
+- Official: yes
+- Tags: payments, agent-payments, local-stdio, macos
+- Category: Finance, Commerce, and Business Apps
 
 ### AgentServices
 
