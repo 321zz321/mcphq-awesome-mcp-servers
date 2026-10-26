@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 459 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 460 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -4105,6 +4105,18 @@ Instant FDM and SLA 3D printing quotes from an ISO 9001:2015 certified EU factor
 - Tags: 3d-printing, manufacturing, quotes, remote
 - Category: Finance, Commerce, and Business Apps
 - Streamable HTTP endpoint: https://zzamnvhadwibvafqcfpd.supabase.co/functions/v1/mcp
+
+### 402post
+
+Remote MCP server (streamable HTTP, no key) for paid classified listings for agents: list categories, validate, create, search and read listings; a listing costs $0.03 for 30 days over x402.
+
+- URL: https://402post.com
+- Language: TypeScript
+- Provider: 402post
+- Official: yes
+- Tags: classifieds, x402, listings, remote
+- Category: Finance, Commerce, and Business Apps
+- Streamable HTTP endpoint: https://402post.com/mcp
 
 ### Account Executive Jobs
 

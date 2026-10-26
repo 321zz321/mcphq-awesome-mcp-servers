@@ -3843,6 +3843,24 @@
     }
   },
   {
+    "name": "402post",
+    "url": "https://402post.com",
+    "description": "Remote MCP server (streamable HTTP, no key) for paid classified listings for agents: list categories, validate, create, search and read listings; a listing costs $0.03 for 30 days over x402.",
+    "category": "finance-commerce-and-business-apps",
+    "language": "TypeScript",
+    "provider": "402post",
+    "tags": [
+      "classifieds",
+      "x402",
+      "listings",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://402post.com/mcp"
+    }
+  },
+  {
     "name": "Agent Payment Node",
     "url": "https://github.com/nuanu-ai/agent-payment-node",
     "description": "Local CLI and stdio MCP payment tools for AI agents on macOS Apple Silicon, with foreground human approval for signing.",
