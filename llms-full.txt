@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 464 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 465 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -3149,6 +3149,18 @@ Lets AI coding agents on different machines message each other through MCP tools
 - Official: yes
 - Tags: multi-agent, claude-code, codex, kanban, agent-messaging
 - Category: AI, Agents, and Memory
+
+### Stivio
+
+AI image-to-video generator MCP server. Turn any image into a 5-second video with plain-language motion prompts.
+
+- URL: https://stivio.ai/mcp
+- Language: Other
+- Provider: Stivio
+- Official: yes
+- Tags: image-to-video, video-generation, ai-video, remote
+- Category: AI, Agents, and Memory
+- Streamable HTTP endpoint: https://stivio.ai/api/mcp
 
 ### Takibi Base
 
