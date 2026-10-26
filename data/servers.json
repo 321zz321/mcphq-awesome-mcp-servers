@@ -3879,6 +3879,24 @@
     }
   },
   {
+    "name": "Zip-Codes.com ZIP & Postal Code MCP",
+    "url": "https://www.zip-codes.com/api/mcp",
+    "description": "Validates and standardizes US street addresses to ZIP+4 and looks up US ZIP Codes and Canadian postal codes, with optional census tract demographics, county and district overlaps, radius search and distance.",
+    "category": "data-analytics-and-bi",
+    "language": "C#",
+    "provider": "Zip-Codes.com",
+    "tags": [
+      "zip-codes",
+      "address-validation",
+      "postal-codes",
+      "geocoding"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://mcp.zip-codes.com/mcp"
+    }
+  },
+  {
     "name": "402registry",
     "url": "https://402registry.com",
     "description": "Remote MCP server (streamable HTTP, no key) to look up whether AI crawlers can see a website, with prices, docs and service status; the paid check ($0.01 over x402) stays plain HTTP.",

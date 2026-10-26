@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 463 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 464 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -3761,6 +3761,18 @@ Facebook/Instagram ads from Meta Ad Library plus AI teardowns of Meta and YouTub
 - Tags: ad-library, meta-ads, video-analysis, remote
 - Category: Data, Analytics, and BI
 - Streamable HTTP endpoint: https://mcp.apify.com/?tools=fetch-actor-details,tubetext/meta-ad-library-videos,tubetext/video-ad-analyzer
+
+### Zip-Codes.com ZIP & Postal Code MCP
+
+Validates and standardizes US street addresses to ZIP+4 and looks up US ZIP Codes and Canadian postal codes, with optional census tract demographics, county and district overlaps, radius search and distance.
+
+- URL: https://www.zip-codes.com/api/mcp
+- Language: C#
+- Provider: Zip-Codes.com
+- Official: yes
+- Tags: zip-codes, address-validation, postal-codes, geocoding
+- Category: Data, Analytics, and BI
+- Streamable HTTP endpoint: https://mcp.zip-codes.com/mcp
 
 ## Legal and Court Data
 
