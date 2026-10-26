@@ -3825,6 +3825,24 @@
     "official": false
   },
   {
+    "name": "Trends MCP",
+    "url": "https://github.com/trendsmcp-ai/Trends-MCP",
+    "description": "Gives AI assistants trend data (search interest over time, growth percentages and live top-trends boards) from Google Search, YouTube, TikTok, Reddit, Amazon, Wikipedia, news, npm, Steam and app stores through one remote MCP server.",
+    "category": "data-analytics-and-bi",
+    "language": "Python",
+    "provider": "Trends MCP",
+    "tags": [
+      "trends",
+      "search-interest",
+      "market-research",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://api.trendsmcp.ai/mcp"
+    }
+  },
+  {
     "name": "Agent Payment Node",
     "url": "https://github.com/nuanu-ai/agent-payment-node",
     "description": "Local CLI and stdio MCP payment tools for AI agents on macOS Apple Silicon, with foreground human approval for signing.",
