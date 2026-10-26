@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-[![Servers](https://img.shields.io/badge/servers-462-brightgreen)](#catalog)
+[![Servers](https://img.shields.io/badge/servers-463-brightgreen)](#catalog)
 [![GitHub stars](https://img.shields.io/github/stars/mcpHQ/awesome-mcp-servers?style=flat&logo=github)](https://github.com/mcpHQ/awesome-mcp-servers/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/mcpHQ/awesome-mcp-servers)](https://github.com/mcpHQ/awesome-mcp-servers/commits/main)
 [![Link check](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml/badge.svg)](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml)
@@ -48,7 +48,7 @@ If this list saves you time, please ⭐ star the repo. It helps other people fin
 - [Filesystems and Documents](#filesystems-and-documents) (18)
 - [Cloud and Infrastructure](#cloud-and-infrastructure) (24)
 - [Communication and Productivity](#communication-and-productivity) (55)
-- [AI, Agents, and Memory](#ai-agents-and-memory) (52)
+- [AI, Agents, and Memory](#ai-agents-and-memory) (53)
 - [Data, Analytics, and BI](#data-analytics-and-bi) (48)
 - [Legal and Court Data](#legal-and-court-data) (6)
 - [Security and Identity](#security-and-identity) (25)
@@ -572,6 +572,8 @@ LLM bridges, agent orchestration, RAG, and persistent memory layers.
   `memory` `remote` `oauth`
 - **[Aident Loadout](https://aident.ai)** `Official` `TypeScript` — Remote MCP capability layer that connects coding agents to 1000+ apps and 400+ Skills through one OAuth setup, with vaulted credentials and an audit trail.  
   `agents` `remote` `oauth` `integrations`
+- **[AISkills402](https://aiskills402.com)** `Official` `TypeScript` — Remote MCP server (streamable HTTP, no key) to search tested Agent Skill files (SKILL.md), read a skill card with its x402 price and re-download a bought file; the files are paid per file over x402 (USDC on Base).  
+  `agent-skills` `skills` `x402` `remote`
 - **[Anansi Haven](https://github.com/kburrus64-max/anansi-haven)** `JavaScript` — Remote MCP server (also A2A and HTTP) giving agents a persistent identity, versioned key-value memory that survives restarts, client-side encrypted storage, an agent directory and a job board.  
   `memory` `agents` `storage` `directory` `remote`
 - **[apimodels.app MCP Server](https://apimodels.app/docs/mcp)** `Official` `TypeScript` — Official MCP server for apimodels.app: generate and edit images, create videos, synthesize speech and chat through one account with 150+ models; hosted Streamable HTTP with OAuth, or local stdio via npx.  

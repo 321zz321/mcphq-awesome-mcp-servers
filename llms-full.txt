@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 462 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 463 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -2671,6 +2671,18 @@ Remote MCP capability layer that connects coding agents to 1000+ apps and 400+ S
 - Tags: agents, remote, oauth, integrations
 - Category: AI, Agents, and Memory
 - Streamable HTTP endpoint: https://loadout.aident.ai/mcp
+
+### AISkills402
+
+Remote MCP server (streamable HTTP, no key) to search tested Agent Skill files (SKILL.md), read a skill card with its x402 price and re-download a bought file; the files are paid per file over x402 (USDC on Base).
+
+- URL: https://aiskills402.com
+- Language: TypeScript
+- Provider: AISkills402
+- Official: yes
+- Tags: agent-skills, skills, x402, remote
+- Category: AI, Agents, and Memory
+- Streamable HTTP endpoint: https://api.aiskills402.com/mcp
 
 ### Anansi Haven
 
