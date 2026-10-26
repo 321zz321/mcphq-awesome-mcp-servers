@@ -3861,6 +3861,24 @@
     }
   },
   {
+    "name": "402registry",
+    "url": "https://402registry.com",
+    "description": "Remote MCP server (streamable HTTP, no key) to look up whether AI crawlers can see a website, with prices, docs and service status; the paid check ($0.01 over x402) stays plain HTTP.",
+    "category": "browsers-search-and-web-automation",
+    "language": "TypeScript",
+    "provider": "402registry",
+    "tags": [
+      "ai-crawlers",
+      "robots",
+      "seo",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://402registry.com/mcp"
+    }
+  },
+  {
     "name": "402post",
     "url": "https://402post.com",
     "description": "Remote MCP server (streamable HTTP, no key) for paid classified listings for agents: list categories, validate, create, search and read listings; a listing costs $0.03 for 30 days over x402.",
