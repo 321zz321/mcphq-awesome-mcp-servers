@@ -7554,6 +7554,25 @@
     }
   },
   {
+    "name": "Iris",
+    "url": "https://iriscan.app/mcp",
+    "description": "Hosted on-chain investigations: wallet analysis, fund tracing through mixers, exchanges and instant swaps, and Solana token insiders, on Solana, EVM chains, Bitcoin and Tron. API key (10 free calls a day) or x402 per call.",
+    "category": "security-and-identity",
+    "language": "Rust",
+    "provider": "Iris",
+    "tags": [
+      "blockchain",
+      "crypto-forensics",
+      "solana",
+      "x402",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://iriscan.app/mcp"
+    }
+  },
+  {
     "name": "TableJourney",
     "url": "https://github.com/lewismvaughan/tablejourney-mcp",
     "description": "Where to eat in 222 cities, signature dishes, and dates of the next edition of 1,480 food festivals, each place with the source it was checked against; hosted, no auth.",
