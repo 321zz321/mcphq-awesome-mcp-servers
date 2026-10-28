@@ -1250,6 +1250,20 @@
     "official": true
   },
   {
+    "name": "Agent Notifications",
+    "url": "https://github.com/777genius/agent-notifications",
+    "description": "Local MCP server for desktop attention and progress notifications from AI coding agents.",
+    "category": "communication-and-productivity",
+    "language": "Go",
+    "provider": "Community",
+    "tags": [
+      "notifications",
+      "desktop",
+      "coding-agents"
+    ],
+    "official": false
+  },
+  {
     "name": "Bridge Watch",
     "url": "https://github.com/LakeSky/bridge-watch-mcp",
     "description": "On-chain address intelligence for Base: seven read-only MCP tools for EVM address labels, transaction explanation, sybil clustering, alerts and CCTP transfer tracking, plus an anonymous free tier and x402 USDC pay-per-call.",
