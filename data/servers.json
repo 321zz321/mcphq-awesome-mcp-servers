@@ -7759,6 +7759,22 @@
     }
   },
   {
+    "name": "Iris Code",
+    "url": "https://www.iriscode.co/mcp",
+    "description": "Local code-quality rules, findings, preview-first safe fixes, refactor verification and gate results for coding agents.",
+    "category": "developer-tools-and-code-intelligence",
+    "language": "TypeScript",
+    "provider": "Iris Code",
+    "tags": [
+      "code-quality",
+      "static-analysis",
+      "refactoring",
+      "security",
+      "local"
+    ],
+    "official": true
+  },
+  {
     "name": "Nhost MCP Server",
     "url": "https://github.com/nhost/nhost/tree/main/cli",
     "description": "Official Nhost MCP server, bundled with the Nhost CLI, that lets AI agents read your GraphQL schema, run the queries you allow, and manage permissions and migrations.",
