@@ -7094,6 +7094,20 @@
     }
   },
   {
+    "name": "FastOCR MCP",
+    "url": "https://github.com/fastocr-org/fastocr-mcp",
+    "description": "OCR local PDF files through the FastOCR API and check API balance from MCP clients.",
+    "category": "filesystems-and-documents",
+    "language": "Python",
+    "provider": "FastOCR",
+    "tags": [
+      "ocr",
+      "pdf",
+      "documents"
+    ],
+    "official": true
+  },
+  {
     "name": "Slack MCP Server",
     "url": "https://github.com/modelcontextprotocol/servers-archived/tree/main/src/slack",
     "description": "Send messages and interact with Slack channels and workspaces.",
