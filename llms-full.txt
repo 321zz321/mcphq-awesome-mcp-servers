@@ -5055,6 +5055,18 @@ Search 210,000+ vetted startup candidates, review Clera's picks for your open ro
 - Category: Finance, Commerce, and Business Apps
 - Streamable HTTP endpoint: https://mcp.getclera.com
 
+### CorpusIQ
+
+Remote MCP server for live business data: read-only retrieval across 40+ connected systems including Stripe, Shopify, QuickBooks, HubSpot and GA4, with source-cited answers and OAuth 2.0 device login.
+
+- URL: https://github.com/CorpusIQ/corpusiq-docs
+- Language: Other
+- Provider: CorpusIQ
+- Official: yes
+- Tags: business-data, crm, ecommerce, finance, remote
+- Category: Finance, Commerce, and Business Apps
+- Streamable HTTP endpoint: https://mcp2.corpusiq.io/mcp
+
 ### CreditUnions
 
 Query federally insured US credit unions from NCUA call report data by city and state: charter, field of membership, assets, members and branches.
