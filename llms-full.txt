@@ -3188,6 +3188,18 @@ Temporal knowledge graphs for agent memory and context building.
 - Tags: knowledge-graph, memory, temporal
 - Category: AI, Agents, and Memory
 
+### House AI
+
+AI interior and exterior design: redesign a room, house exterior or yard from a photo in 100+ styles, preview wall paint and flooring, and find real furniture and decor to match. OAuth sign-in with a House AI account.
+
+- URL: https://www.houseaiapp.com/connector
+- Language: Python
+- Provider: House AI
+- Official: yes
+- Tags: interior-design, image-generation, home, remote, oauth
+- Category: AI, Agents, and Memory
+- Streamable HTTP endpoint: https://mcp.houseaiapp.com/mcp
+
 ### Hugging Face MCP Server
 
 Access Hugging Face models, datasets, and Spaces from MCP clients.
