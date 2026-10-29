@@ -5180,6 +5180,24 @@
     }
   },
   {
+    "name": "FlightQueue",
+    "url": "https://flightqueue.com/mcp",
+    "description": "Airport security wait times, forecasts, FAA delays, EES border queues and baggage stats for 8,000+ airports over a hosted MCP server.",
+    "category": "data-analytics-and-bi",
+    "language": "Other",
+    "provider": "FlightQueue",
+    "tags": [
+      "travel",
+      "airports",
+      "wait-times",
+      "flight-delays"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://mcp.flightqueue.com/mcp"
+    }
+  },
+  {
     "name": "Fin Codes API",
     "url": "https://fincodesapi.com/mcp-server",
     "description": "Validate IBANs and bank codes, verify payee names, and screen names against sanctions lists through an authenticated hosted MCP server.",
