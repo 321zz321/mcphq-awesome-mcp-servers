@@ -4359,6 +4359,18 @@ German employment law for small companies: 38 read-only tools for notice periods
 - Category: Legal and Court Data
 - Streamable HTTP endpoint: https://hr.lintelly.com/mcp
 
+### My Spain Visa
+
+Spain visa rules for 2026, a Schengen 90/180 calculator and consulate processing times from a Barcelona immigration law firm's own cases. Free hosted server, no account.
+
+- URL: https://myspainvisa.com/mcp/
+- Language: PHP
+- Provider: My Spain Visa
+- Official: yes
+- Tags: immigration, visa, spain, schengen, remote
+- Category: Legal and Court Data
+- Streamable HTTP endpoint: https://myspainvisa.com/api/mcp
+
 ### Polish MCP Servers
 
 Stdio server with 12 read-only tools for Polish law and public registers (Sejm ELI acts, SAOS judgments, tenders, building permits, land parcels and zoning), each running a public Apify Actor billed to your Apify account.
