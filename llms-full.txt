@@ -1391,6 +1391,18 @@ Read-only MCP server for the MEDIAPRONET directory: search 249 listed websites, 
 - Category: Browsers, Search, and Web Automation
 - Streamable HTTP endpoint: https://mediapronet.com/api/mcp
 
+### Monito
+
+Checks a deployed URL against a plain-English expectation in a cloud browser and returns passed, failed or cannot verify with screenshots, network and console logs.
+
+- URL: https://www.monito.dev/docs/mcp
+- Language: TypeScript
+- Provider: Monito
+- Official: yes
+- Tags: testing, browser, qa, remote, oauth
+- Category: Browsers, Search, and Web Automation
+- Streamable HTTP endpoint: https://www.monito.dev/api/mcp
+
 ### Perceptlayer
 
 Searches and calls 1,659 data endpoints across 248 websites (maps, real estate, jobs, travel, search) over a hosted MCP endpoint and returns structured JSON; free tier included.
