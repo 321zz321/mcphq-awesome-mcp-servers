@@ -4984,6 +4984,24 @@
     }
   },
   {
+    "name": "Clara by nOps",
+    "url": "https://github.com/nops-io/clara-mcp",
+    "description": "Official nOps FinOps assistant: query AWS, GCP and Azure cost and usage, Reserved Instance and Savings Plan performance, budgets, reports and anomalies over OAuth.",
+    "category": "cloud-and-infrastructure",
+    "language": "Other",
+    "provider": "nOps",
+    "tags": [
+      "finops",
+      "cloud-cost",
+      "aws",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://mcp.nops.io"
+    }
+  },
+  {
     "name": "AgentSandboxes",
     "url": "https://agentsandboxes.fyi",
     "description": "Search an index of cloud sandbox providers for AI agents: isolation, cold start, persistence, GPU support and pricing, each fact linked to its source.",
