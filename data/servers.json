@@ -4928,6 +4928,25 @@
     }
   },
   {
+    "name": "model.tools",
+    "url": "https://github.com/maceip/model-tools-mcp",
+    "description": "Zero-auth email OTP extraction, KV state checkpoints, webhook receiver bins, delayed HTTP wakeup callbacks, and URL-to-Markdown reader for AI agents.",
+    "category": "communication-and-productivity",
+    "language": "JavaScript",
+    "provider": "model.tools",
+    "tags": [
+      "email",
+      "inbox",
+      "otp",
+      "webhook",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://mcp.model.tools/mcp"
+    }
+  },
+  {
     "name": "Agent Coach",
     "url": "https://upskill.coach/docs/mcp",
     "description": "Coach and security-scanned skill library for AI agents: register, set one goal, get matched skills, MCP servers and repos, check in daily, and search the vetted library.",
