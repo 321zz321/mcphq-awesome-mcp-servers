@@ -4411,6 +4411,25 @@
     }
   },
   {
+    "name": "Add to CRM",
+    "url": "https://github.com/crm-inputs/mcp",
+    "description": "Find work contact details and add people and companies to your own CRM from Claude, ChatGPT and other assistants. Checks for duplicates first and uses your field mapping and tags. Works with 29+ CRMs.",
+    "category": "finance-commerce-and-business-apps",
+    "language": "Other",
+    "provider": "Add to CRM",
+    "tags": [
+      "crm",
+      "sales",
+      "contact-enrichment",
+      "remote",
+      "oauth"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://mcp.addtocrm.com/mcp"
+    }
+  },
+  {
     "name": "BotsRated",
     "url": "https://github.com/botsrated/botsrated",
     "description": "Checks a paid x402 seller or remote MCP server before an agent pays it: latest unpaid probe, listed vs quoted price and payTo, with signed receipts; free preflight and search, paid lookups via x402 on Base.",
