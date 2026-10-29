@@ -209,6 +209,7 @@ Links under each category point at the upstream project, docs, or registry page.
 - [gpu.nz GPU Cloud](https://gpu.nz/en/docs/mcp): Find live cloud GPU offers, estimate model VRAM needs, and launch, stop, or delete per-minute GPU servers on gpu.nz. (TypeScript, official)
 - [InternetVitals](https://github.com/internetvitals/mcp-server): Real-time status, recent incidents and an overall health score for 41 internet backbone services such as AWS, Cloudflare, GitHub and OpenAI. (TypeScript, official)
 - [mountable.io](https://github.com/writeitai/mountable): Manage persistent agent filesystems, issue mount tickets and revoke mount sessions through a local stdio server for the paid mountable.io service. (Go, official)
+- [NetActuate MCP Server](https://netactuate.com/mcp): Answers from NetActuate's own published data: data centers and specs, compliance by site, internet exchanges, products and pricing, marketplace apps, docs and API, each linked to its source page. (TypeScript, official)
 - [Network Sketcher](https://github.com/cisco-open/network-sketcher): Local-first MCP server for AI-driven network design, L1/L2/L3 topology diagrams, device tables, and AI Context generation. (Python)
 - [Port MCP Server](https://github.com/port-labs/port-mcp-server): Manage software catalog, scorecards, and actions in Port.io. (TypeScript, official)
 - [Pulumi MCP Server](https://www.pulumi.com/docs/ai/mcp-server/): Infrastructure as code operations with Pulumi stacks and resources. (TypeScript, official)

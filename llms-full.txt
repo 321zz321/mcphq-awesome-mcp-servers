@@ -2064,6 +2064,18 @@ Manage persistent agent filesystems, issue mount tickets and revoke mount sessio
 - Tags: filesystem, storage, stdio
 - Category: Cloud and Infrastructure
 
+### NetActuate MCP Server
+
+Answers from NetActuate's own published data: data centers and specs, compliance by site, internet exchanges, products and pricing, marketplace apps, docs and API, each linked to its source page.
+
+- URL: https://netactuate.com/mcp
+- Language: TypeScript
+- Provider: NetActuate
+- Official: yes
+- Tags: anycast, data-centers, edge, networking
+- Category: Cloud and Infrastructure
+- Streamable HTTP endpoint: https://netactuate.com/mcp
+
 ### Network Sketcher
 
 Local-first MCP server for AI-driven network design, L1/L2/L3 topology diagrams, device tables, and AI Context generation.
