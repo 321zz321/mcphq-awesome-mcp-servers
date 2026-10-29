@@ -1320,6 +1320,18 @@ Neural and keyword web search optimized for AI research workflows.
 - Tags: search, research, web
 - Category: Browsers, Search, and Web Automation
 
+### FindAIforWork
+
+Read-only MCP server for a human-reviewed AI tools directory organized by work scenario: search tools, list categories, read listing details and compare tools; no account or API key.
+
+- URL: https://findaiforwork.com/llms.txt
+- Language: TypeScript
+- Provider: FindAIforWork
+- Official: yes
+- Tags: search, directory, ai-tools, remote
+- Category: Browsers, Search, and Web Automation
+- Streamable HTTP endpoint: https://findaiforwork.com/mcp
+
 ### Firecrawl MCP Server
 
 Scrape, crawl, and extract structured web data with Firecrawl.
