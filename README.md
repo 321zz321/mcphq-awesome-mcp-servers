@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-[![Servers](https://img.shields.io/badge/servers-555-brightgreen)](#catalog)
+[![Servers](https://img.shields.io/badge/servers-556-brightgreen)](#catalog)
 [![GitHub stars](https://img.shields.io/github/stars/mcpHQ/awesome-mcp-servers?style=flat&logo=github)](https://github.com/mcpHQ/awesome-mcp-servers/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/mcpHQ/awesome-mcp-servers)](https://github.com/mcpHQ/awesome-mcp-servers/commits/main)
 [![Link check](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml/badge.svg)](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml)
@@ -54,6 +54,7 @@ If this list saves you time, please ⭐ star the repo. It helps other people fin
 - [Security and Identity](#security-and-identity) (28)
 - [Finance, Commerce, and Business Apps](#finance-commerce-and-business-apps) (118)
 - [Utilities and Examples](#utilities-and-examples) (22)
+- [Logistics and Shipping](#logistics-and-shipping) (1)
 
 <a id="official-and-reference"></a>
 
@@ -1255,6 +1256,15 @@ Helpful utilities, templates, and starter servers for learning MCP.
   `weather` `api` `utility`
 - **[Wheremind](https://wheremind.ai)** `Official` `Other` — Hosted maps MCP server for AI agents: live place search, place details, nearby search, geocoding, and directions, with no Maps API key to manage.  
   `maps` `geocoding` `places` `directions` `remote`
+
+<a id="logistics-and-shipping"></a>
+
+## Logistics and Shipping
+
+Freight and parcel shipping, carrier rates, shipment tracking, and supply chain operations.
+
+- **[Mothership](https://github.com/mothership/agent-plugins)** `Official` `TypeScript` — Mothership LTL, FTL & Local Freight: get quotes and track shipments.  
+  `freight` `logistics` `shipping` `oauth` `remote`
 
 ## Use the Data
 
