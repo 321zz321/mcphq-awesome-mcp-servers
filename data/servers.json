@@ -4337,6 +4337,24 @@
     "official": false
   },
   {
+    "name": "TextKit",
+    "url": "https://jointextkit.com/docs/mcp",
+    "description": "Hosted MCP server to send and receive SMS, verify phone numbers, buy US and Canada numbers, and manage contacts, segments, broadcasts and automations.",
+    "category": "communication-and-productivity",
+    "language": "TypeScript",
+    "provider": "TextKit",
+    "tags": [
+      "sms",
+      "phone-verification",
+      "messaging",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://mcp.jointextkit.com"
+    }
+  },
+  {
     "name": "SaaSCity",
     "url": "https://github.com/nyyhao/saascity-mcp",
     "description": "Audit a homepage before launch, pick launch directories from 1,600+ by DR, link type and price, and list the product on SaaSCity.",

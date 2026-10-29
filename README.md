@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-[![Servers](https://img.shields.io/badge/servers-554-brightgreen)](#catalog)
+[![Servers](https://img.shields.io/badge/servers-555-brightgreen)](#catalog)
 [![GitHub stars](https://img.shields.io/github/stars/mcpHQ/awesome-mcp-servers?style=flat&logo=github)](https://github.com/mcpHQ/awesome-mcp-servers/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/mcpHQ/awesome-mcp-servers)](https://github.com/mcpHQ/awesome-mcp-servers/commits/main)
 [![Link check](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml/badge.svg)](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml)
@@ -47,7 +47,7 @@ If this list saves you time, please ⭐ star the repo. It helps other people fin
 - [Browsers, Search, and Web Automation](#browsers-search-and-web-automation) (54)
 - [Filesystems and Documents](#filesystems-and-documents) (21)
 - [Cloud and Infrastructure](#cloud-and-infrastructure) (29)
-- [Communication and Productivity](#communication-and-productivity) (67)
+- [Communication and Productivity](#communication-and-productivity) (68)
 - [AI, Agents, and Memory](#ai-agents-and-memory) (63)
 - [Data, Analytics, and BI](#data-analytics-and-bi) (56)
 - [Legal and Court Data](#legal-and-court-data) (8)
@@ -599,6 +599,8 @@ Integrate chat, email, calendars, and team collaboration tools.
   `project-management` `tasks` `agents` `remote`
 - **[Telegram Archive MCP Server](https://github.com/GeiserX/telegram-archive-mcp)** `Official` `Go` — Search messages, browse chats and read archived Telegram history from a self-hosted Telegram-Archive instance.  
   `telegram` `chat` `archives` `self-hosted`
+- **[TextKit](https://jointextkit.com/docs/mcp)** `Official` `TypeScript` — Hosted MCP server to send and receive SMS, verify phone numbers, buy US and Canada numbers, and manage contacts, segments, broadcasts and automations.  
+  `sms` `phone-verification` `messaging` `remote`
 - **[There There](https://there-there.app/docs/integrations/mcp-server)** `Official` `PHP` — Read, search and triage There There helpdesk tickets, save private reply drafts, send replies and manage knowledge base articles, limited to the abilities granted over OAuth.  
   `helpdesk` `customer-support` `tickets` `oauth`
 - **[Timesheet MCP Server](https://github.com/timesheetIO/timesheet-mcp)** `Official` `TypeScript` — Official Timesheet time tracking server: run timers, log work, manage projects, todos, expenses and absences, and pull reports and exports.  
