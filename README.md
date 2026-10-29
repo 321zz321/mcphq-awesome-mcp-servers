@@ -988,6 +988,8 @@ Payments, banking, CRM, e-commerce, and business system integrations.
   `banking` `personal-finance` `read-only` `remote`
 - **[Best Electrician Jobs](https://github.com/854Labs/best-electrician-jobs)** `Official` `Other` — Hosted OAuth MCP server for employers to manage electrician job posts and applicants on BestElectricianJobs.com: draft and publish jobs, read résumés and move candidates through hiring.  
   `jobs` `recruiting` `electrician` `oauth` `remote`
+- **[BestPrice Shopping](https://github.com/TheBestCo/bestprice-mcp)** `Official` `JavaScript` — Official read-only shopping MCP for Greece from BestPrice.gr: shopping recommendations, product search, store offers with delivered totals, and price history; no API key.  
+  `ecommerce` `price-comparison` `shopping` `greece` `remote`
 - **[Bilbop x402](https://github.com/bilbop1/bilbop-x402-mcp)** `Official` `JavaScript` — Pay-per-call agent tools paid in USDC on Solana over x402, no account or API key: text summarize, Solana token brief and mint info, text-to-speech, and human brand feedback.  
   `x402` `solana` `usdc` `remote`
 - **[BirkinBagStock](https://birkinbagstock.com/llms.txt)** `Official` `Other` — Independent Hermès resale listings, price comparisons, and price alerts.  
