@@ -5605,6 +5605,18 @@ Manage QuickBooks accounting records and financial reports.
 - Tags: accounting, finance, bookkeeping
 - Category: Finance, Commerce, and Business Apps
 
+### Relaticle
+
+Open-source CRM your AI agents can read and update: companies, people, opportunities, tasks, notes and custom fields.
+
+- URL: https://github.com/relaticle/relaticle
+- Language: PHP
+- Provider: Relaticle
+- Official: yes
+- Tags: crm, sales, oauth, remote
+- Category: Finance, Commerce, and Business Apps
+- Streamable HTTP endpoint: https://mcp.relaticle.com
+
 ### RentReboot
 
 Search NYC apartments and renter guides, explore rent data, and access personal alerts and saved searches with scoped OAuth; website alert plans are separate.
