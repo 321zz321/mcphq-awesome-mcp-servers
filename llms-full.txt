@@ -3257,6 +3257,18 @@ Hosted MCP server for LlamaParse document parsing and LlamaIndex platform APIs.
 - Category: AI, Agents, and Memory
 - Streamable HTTP endpoint: https://mcp.llamaindex.ai/mcp
 
+### LLM Gateway
+
+Hosted MCP server for LLM Gateway that sends chat requests to any supported model, generates images, lists models with pricing, and reports usage and costs.
+
+- URL: https://docs.llmgateway.io/developers/mcp
+- Language: TypeScript
+- Provider: LLM Gateway
+- Official: yes
+- Tags: llm, llm-gateway, image-generation, usage-analytics
+- Category: AI, Agents, and Memory
+- Streamable HTTP endpoint: https://api.llmgateway.io/mcp
+
 ### LLMSlim
 
 Local stdio MCP server that stores agent messages word for word in SQLite or Postgres and recalls the ones that answer a question within a token budget, with no LLM call.
