@@ -4252,6 +4252,25 @@
     }
   },
   {
+    "name": "Posty: Social Media Scheduler",
+    "url": "https://posty.hu/en/docs/mcp",
+    "description": "Hosted MCP server to write, schedule and publish posts to 20 social platforms, including Facebook, Instagram, X, LinkedIn, TikTok and YouTube, with a content calendar and full-quality media uploads.",
+    "category": "communication-and-productivity",
+    "language": "TypeScript",
+    "provider": "Posty",
+    "tags": [
+      "social-media",
+      "scheduling",
+      "publishing",
+      "content-calendar",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://api.posty.hu/mcp-oauth"
+    }
+  },
+  {
     "name": "PushNotif",
     "url": "https://github.com/AarsyDesign/pushnotif-mcp",
     "description": "Hosted remote and stdio MCP server with 24 tools for Web Push (VAPID), Android (FCM), iOS (APNs), In-App Popups, Social Proof Toasts, and Transactional Email OTP.",
