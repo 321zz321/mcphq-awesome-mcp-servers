@@ -4172,6 +4172,22 @@
     "official": false
   },
   {
+    "name": "Toads",
+    "url": "https://github.com/854Labs/toads",
+    "description": "Edit screen recordings in Toads on your Mac: tidy up filler words, cut by transcript, add captions, titles and zooms, and export.",
+    "category": "communication-and-productivity",
+    "language": "Swift",
+    "provider": "854Labs",
+    "tags": [
+      "video-editing",
+      "screen-recording",
+      "captions",
+      "macos",
+      "local"
+    ],
+    "official": true
+  },
+  {
     "name": "Tavero",
     "url": "https://github.com/baccaraaa/tavero",
     "description": "Scans a running React 19 app (Vite or Next.js) for UI drift in buttons, cards, colors, and spacing, and returns fixes with file and line references to the coding agent.",
