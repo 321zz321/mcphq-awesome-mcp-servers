@@ -5111,6 +5111,24 @@
     }
   },
   {
+    "name": "AlertForge",
+    "url": "https://alertforge.ai/docs/agents",
+    "description": "Plan, create, and export stream overlays, AI alerts, and transparent videos through a hosted service requiring an active paid subscription and generation credits.",
+    "category": "utilities-and-examples",
+    "language": "TypeScript",
+    "provider": "AlertForge",
+    "tags": [
+      "streaming",
+      "design",
+      "video",
+      "oauth"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://alertforge.ai/api/mcp"
+    }
+  },
+  {
     "name": "Crispy",
     "url": "https://crispy.sh",
     "description": "Hosted LinkedIn MCP server. Sign in with OAuth, or use a Bearer API key. Search people and companies, read profile and company data, and send and read messages.",
