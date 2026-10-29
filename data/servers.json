@@ -4551,6 +4551,25 @@
     }
   },
   {
+    "name": "Serpier",
+    "url": "https://serpier.com/mcp",
+    "description": "Hosted SEO server: track rankings, search traffic and AI visibility, monitor published links, browse vetted publishers and place link-building orders; OAuth sign-in.",
+    "category": "data-analytics-and-bi",
+    "language": "TypeScript",
+    "provider": "Serpier",
+    "tags": [
+      "seo",
+      "link-building",
+      "ai-visibility",
+      "remote",
+      "oauth"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://app.serpier.com/api/mcp"
+    }
+  },
+  {
     "name": "402cron",
     "url": "https://402cron.com",
     "description": "Remote MCP server (streamable HTTP) for a paid cron service for agents: pricing and docs need no key, and thirteen more tools manage scheduled webhook tasks with the API token bought over x402.",
