@@ -5031,6 +5031,17 @@ Remote MCP server for multi-chain EVM JSON-RPC, an indexed Data API, documentati
 - Category: Finance, Commerce, and Business Apps
 - Streamable HTTP endpoint: https://docs.blockvectra.com/mcp
 
+### Budna MCP
+
+Read-only search and inspection of public listings, sellers, bids and ratings on Budna, a Swedish second-hand marketplace; no account or API key.
+
+- URL: https://github.com/budna-marketplace/mcp
+- Language: Rust
+- Provider: Budna
+- Official: yes
+- Tags: marketplace, second-hand, shopping, sweden
+- Category: Finance, Commerce, and Business Apps
+
 ### Buy-Box
 
 Saves your buying criteria for homes, cars or any category (budget, must-haves, dealbreakers) so AI agents load them before they search and rank listings against them.
