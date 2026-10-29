@@ -5933,6 +5933,18 @@ Search US stores for cashback rates and coupon codes, and get a tracked activati
 - Category: Finance, Commerce, and Business Apps
 - Streamable HTTP endpoint: https://tenmomo.com/mcp
 
+### Tera Ads
+
+Meta Ads from Claude, ChatGPT, Cursor or Claude Code with approval before changes, undo for pauses and budgets, and Shopify profit after returns.
+
+- URL: https://teraads.co/connect
+- Language: Python
+- Provider: Tera Ads
+- Official: yes
+- Tags: meta-ads, advertising, shopify, ecommerce, remote
+- Category: Finance, Commerce, and Business Apps
+- Streamable HTTP endpoint: https://teraads.co/mcp
+
 ### TraderSpy
 
 Read-only crypto futures market data: AI signals, top-trader positions on Hyperliquid, Binance, Bybit and OKX, indicators, funding, open interest, a screener and backtests. No order or withdrawal tools.
