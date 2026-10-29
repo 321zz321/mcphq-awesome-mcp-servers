@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 564 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 565 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -2402,6 +2402,17 @@ Gives AI agents their own email inbox: send, read, reply, and wait for the next 
 - Tags: email, inbox, agents, otp, remote
 - Category: Communication and Productivity
 - Streamable HTTP endpoint: https://cooperemail.com/mcp
+
+### Crispy
+
+Hosted LinkedIn MCP server. Sign in with OAuth, or use a Bearer API key. Search people and companies, read profile and company data, and send and read messages.
+
+- URL: https://crispy.sh
+- Language: TypeScript
+- Provider: Shyft AI
+- Official: no
+- Tags: linkedin, sales, remote, oauth
+- Category: Communication and Productivity
 
 ### day3
 
