@@ -986,6 +986,8 @@ Payments, banking, CRM, e-commerce, and business system integrations.
   `ecommerce` `resale` `price-comparison` `remote`
 - **[BKK Staff](https://app.bkkstaff.com/mcp)** `Official` `Other` — Automated resume screening for small businesses: create and manage job posts, rank applicants (strong/possible/weak), search candidates and email applicants via a hosted OAuth MCP server.  
   `recruiting` `hiring` `resume-screening` `remote` `oauth`
+- **[BlazePhoenix](https://github.com/blazephoenixxyz-crypto/blazephoenix-mcp)** `Official` `JavaScript` — Official remote MCP server for the BlazePhoenix DEX aggregator on Base, Optimism, Arbitrum and Robinhood Chain: prepare a quote to run on your own RPC, decode it, and get verified calldata. No API key.  
+  `defi` `dex` `evm` `calldata` `remote`
 - **[BlockVectra](https://github.com/blockvectra/mcp)** `Official` `Other` — Remote MCP server for multi-chain EVM JSON-RPC, an indexed Data API, documentation, pricing and status, for developers and AI agents. Documentation, chain and status tools need no API key; Data API tools require one.  
   `blockchain` `json-rpc` `evm` `data-api`
 - **[Buy-Box](https://buybox.agentconsult.ai)** `Official` `Other` — Saves your buying criteria for homes, cars or any category (budget, must-haves, dealbreakers) so AI agents load them before they search and rank listings against them.  

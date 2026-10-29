@@ -4935,6 +4935,18 @@ Automated resume screening for small businesses: create and manage job posts, ra
 - Category: Finance, Commerce, and Business Apps
 - Streamable HTTP endpoint: https://app.bkkstaff.com/mcp
 
+### BlazePhoenix
+
+Official remote MCP server for the BlazePhoenix DEX aggregator on Base, Optimism, Arbitrum and Robinhood Chain: prepare a quote to run on your own RPC, decode it, and get verified calldata. No API key.
+
+- URL: https://github.com/blazephoenixxyz-crypto/blazephoenix-mcp
+- Language: JavaScript
+- Provider: BlazePhoenix
+- Official: yes
+- Tags: defi, dex, evm, calldata, remote
+- Category: Finance, Commerce, and Business Apps
+- Streamable HTTP endpoint: https://blazephoenix.xyz/mcp
+
 ### BlockVectra
 
 Remote MCP server for multi-chain EVM JSON-RPC, an indexed Data API, documentation, pricing and status, for developers and AI agents. Documentation, chain and status tools need no API key; Data API tools require one.
