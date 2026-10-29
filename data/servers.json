@@ -5112,6 +5112,25 @@
     }
   },
   {
+    "name": "Fin Codes API",
+    "url": "https://fincodesapi.com/mcp-server",
+    "description": "Validate IBANs and bank codes, verify payee names, and screen names against sanctions lists through an authenticated hosted MCP server.",
+    "category": "finance-commerce-and-business-apps",
+    "language": "PHP",
+    "provider": "Fin Codes API",
+    "tags": [
+      "banking",
+      "iban",
+      "payee-verification",
+      "sanctions",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://mcp.fincodesapi.com/mcp"
+    }
+  },
+  {
     "name": "Social Post Flow",
     "url": "https://www.socialpostflow.com/documentation/mcp/",
     "description": "Schedule and publish social media posts to Facebook, X, LinkedIn, Instagram, Threads, Pinterest, TikTok, Bluesky, Mastodon and more.",

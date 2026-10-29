@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-[![Servers](https://img.shields.io/badge/servers-561-brightgreen)](#catalog)
+[![Servers](https://img.shields.io/badge/servers-562-brightgreen)](#catalog)
 [![GitHub stars](https://img.shields.io/github/stars/mcpHQ/awesome-mcp-servers?style=flat&logo=github)](https://github.com/mcpHQ/awesome-mcp-servers/stargazers)
 [![Last commit](https://img.shields.io/github/last-commit/mcpHQ/awesome-mcp-servers)](https://github.com/mcpHQ/awesome-mcp-servers/commits/main)
 [![Link check](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml/badge.svg)](https://github.com/mcpHQ/awesome-mcp-servers/actions/workflows/link-check.yml)
@@ -52,7 +52,7 @@ If this list saves you time, please ⭐ star the repo. It helps other people fin
 - [Data, Analytics, and BI](#data-analytics-and-bi) (56)
 - [Legal and Court Data](#legal-and-court-data) (8)
 - [Security and Identity](#security-and-identity) (28)
-- [Finance, Commerce, and Business Apps](#finance-commerce-and-business-apps) (118)
+- [Finance, Commerce, and Business Apps](#finance-commerce-and-business-apps) (119)
 - [Utilities and Examples](#utilities-and-examples) (22)
 - [Logistics and Shipping](#logistics-and-shipping) (1)
 
@@ -1069,6 +1069,8 @@ Payments, banking, CRM, e-commerce, and business system integrations.
   `belgium` `company-data` `financials` `kbo`
 - **[Feminiq Rides](https://www.feminiqrides.nl/llms.txt)** `Official` `JavaScript` — Remote server for an Amsterdam chauffeur service with a female driver option: list routes, tours and cars, get a price quote and send a ride request.  
   `travel` `taxi` `booking` `remote`
+- **[Fin Codes API](https://fincodesapi.com/mcp-server)** `Official` `PHP` — Validate IBANs and bank codes, verify payee names, and screen names against sanctions lists through an authenticated hosted MCP server.  
+  `banking` `iban` `payee-verification` `sanctions` `remote`
 - **[Fincept MCP](https://github.com/Fincept-Corporation/fincept-mcp-docs)** `Official` `Other` — Hosted MCP server for Fincept Terminal: quotes, candles, option chains, fundamentals, economic data, SEC filings, news, backtests, paper trading and 15 quant engines, with OAuth sign-in.  
   `finance` `stock-market` `trading` `quant` `remote`
 - **[Finder Jobs](https://mcp.finder.work)** `Official` `Python` — Job vacancies and salary stats for Russia, Kazakhstan, Belarus, Kyrgyzstan, Germany, France, Belgium, Switzerland, Sweden and Indonesia. Free, read-only, no auth.  
